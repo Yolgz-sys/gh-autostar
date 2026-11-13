@@ -8,6 +8,10 @@
 跨宿主通用：WorkBuddy、Claude Code、Cursor、Cline、Windsurf、Claude Desktop、
 Codex CLI，以及任何支持 stdio 传输的 MCP 宿主。
 
+![gh-autostar](assets/promo-frame.png)
+
+▶ [5 秒宣传片](assets/promo.mp4)
+
 ---
 
 ## 为什么是"三个入口"
