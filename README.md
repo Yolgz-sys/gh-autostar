@@ -10,7 +10,9 @@ Codex CLI，以及任何支持 stdio 传输的 MCP 宿主。
 
 ![gh-autostar](assets/poster.png)
 
-▶ [19 秒宣传片](assets/promo.mp4)
+▶ [19 秒宣传片](assets/promo.mp4) · [竖屏版（含配音，可发短视频平台）](assets/promo-douyin.mp4)
+
+> 竖屏版的文案、标题与话题标签见 [docs/douyin.md](docs/douyin.md)。
 
 ---
 
