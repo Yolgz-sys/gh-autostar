@@ -8,9 +8,23 @@
 跨宿主通用：WorkBuddy、Claude Code、Cursor、Cline、Windsurf、Claude Desktop、
 Codex CLI，以及任何支持 stdio 传输的 MCP 宿主。
 
-![gh-autostar](assets/promo-frame.png)
+![gh-autostar](assets/poster.png)
 
-▶ [5 秒宣传片](assets/promo.mp4)
+▶ [19 秒宣传片](assets/promo.mp4)
+
+---
+
+## 初衷
+
+我每天用着几十个开源项目 —— 克隆、读源码、装依赖，然后关掉页面。
+
+从来没点过那颗星。
+
+不是不感激。是那一刻总想着"等会儿再点"，然后就再也没有等会儿了。星标是作者能收到的最轻的一种认可，也是我唯一能低成本给出的回报，偏偏它最容易被"下次再说"拖没。
+
+所以做了这个：把"说声谢谢"这件事，从需要想起来，变成自动发生。
+
+但前提是**你真的用了它**——不是见到链接就点，更不是刷量。所以触发条件被刻意收窄到克隆、装依赖、读源码、采纳方案这几种，并且带每日上限和全量审计。见 [docs/POLICY.md](docs/POLICY.md)。
 
 ---
 
