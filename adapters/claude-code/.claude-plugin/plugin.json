@@ -1,0 +1,9 @@
+{
+  "name": "gh-autostar",
+  "version": "0.1.0",
+  "description": "用到了哪个 GitHub 项目，就给它点一颗星。自带 MCP server 与 PostToolUse hook 双通道。",
+  "author": {
+    "name": "gh-autostar"
+  },
+  "hooks": "./hooks/hooks.json"
+}

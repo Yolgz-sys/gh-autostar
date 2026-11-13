@@ -1,0 +1,31 @@
+{
+  "name": "gh-autostar-mcp",
+  "version": "0.1.0",
+  "description": "MCP server that stars GitHub repositories you actually use — works across WorkBuddy, Claude Code, Cursor, Cline, Windsurf and any MCP host.",
+  "type": "module",
+  "license": "MIT",
+  "bin": {
+    "gh-autostar": "bin/gh-autostar.js"
+  },
+  "files": [
+    "bin",
+    "src",
+    "hooks",
+    "adapters",
+    "docs",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "start": "node src/mcp/server.js",
+    "test": "node --test \"tests/*.test.js\"",
+    "verify": "node scripts/verify-install.mjs",
+    "cli": "node bin/gh-autostar.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.0",
+    "zod": "^3.23.8"
+  }
+}
